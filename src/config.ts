@@ -27,9 +27,9 @@ const CONFIG: IConfig = {
         },
         {
             crowdfund:
-                "stars1a0el2qceyryftj9cx0ds4as3sgfu4ezj7mumtdp34v5c9qpswzaqw0qq38",
-            cw721: "stars1uj5tl3g26022ev9ym6x39xtv09hz3xvc7e3c5wthdpufxtwk7rsscs6jz4",
-            name: "Crowdfund Example",
+                "andr10hfss9530wx0atdzj8fj4ep74ka6r7uj7ed9vrht56ydfhjhmhlqum479a",
+            cw721: "andr1k2ycjxy52nfpm4mhfcg4h54qs27ylthkr6dfndcfxc236hu297vq0nd9su",
+            name: "Go_HotWheelsss",
             type: ICollectionType.CROWDFUND,
             id: "crowdfund",
         },
